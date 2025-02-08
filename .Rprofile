@@ -1,0 +1,8 @@
+options(scipen=999)
+library(magrittr)
+library(devtools)
+library(usethis)
+library(sf)
+library(mapdeck)
+library(scales)
+library(tidyverse)
