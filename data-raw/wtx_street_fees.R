@@ -3,3 +3,4 @@ wtx_street_fees <-
   mutate(Fee = parse_number(`Property Monthly Fee`, na = c('#N/A')))
 
 usethis::use_data(wtx_street_fees, overwrite = TRUE)
+
