@@ -4,3 +4,10 @@
 ^_pkgdown\.yml$
 ^docs$
 ^pkgdown$
+^vignettes/articles$
+
+# Mine
+^data-source$
+workbook.R
+^analysis
+^README\.Rmd$

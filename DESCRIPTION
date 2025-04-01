@@ -14,3 +14,13 @@ Depends:
 LazyData: true
 URL: https://github.com/jsowder/wtx
 BugReports: https://github.com/jsowder/wtx/issues
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+Config/Needs/website: rmarkdown
+Imports: 
+    magrittr,
+    mapdeck,
+    rlang,
+    sf

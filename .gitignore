@@ -6,3 +6,4 @@
 .quarto
 docs
 data-source/
+inst/doc
